@@ -3,7 +3,7 @@
 
 /**
  * main - check the code.
- *Expected to be cold or not !
+ *
  * Return: Always 0.
  */
 int main(void)
@@ -16,4 +16,3 @@ int main(void)
     printf("%c: %d\n", c, _isupper(c));
     return (0);
 }
-
